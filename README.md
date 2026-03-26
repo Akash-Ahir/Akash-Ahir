@@ -7,13 +7,13 @@
 
 ## 💡 About Me
 
-I'm **Akash Ahir**, a **DevOps Engineer**  Based in **Nagpur, India**, I'm building my skills in **Linux, Git, Shell scripting, Python, Docker, and AWS/Azure** to transition into a **DevOps Engineer** .
+I'm **Akash Ahir**, a **DevOps Engineer** Based in **Nagpur, India**, I'm building my skills in **Linux, Git, Shell scripting, Python, Docker, and AWS/Azure** to transition into a **DevOps Engineer** .
 
 
 - 🔧 Working with Linux, Git, automation tools, and many more
 - ⚙️ Building CI/CD pipelines and improving workflows  
 - 📦 Managing code, scripts, and DevOps practices in real projects
--    Updating with the latest skill which help to grow
+- 💡 Keeping myself updated with the latest tools and trends to grow
 - 🌱 Continuously learning and implementing DevOps concepts  
 
 ---
@@ -22,42 +22,20 @@ I'm **Akash Ahir**, a **DevOps Engineer**  Based in **Nagpur, India**, I'm build
 - 90 Days of DevOps challenge (daily tasks, scripts, notes)
 - Shell scripts for automation and system tasks
 - Python scripts for utility and automation
-- Learning DevOps fundamentals 
+- Learning DevOps fundamentals.
 
 ---
 ## 🛠️ Tech Stack
-### Core DevOps stack
 
-- **Linux & Shell** — Basic sysadmin tasks, bash scripting, cron, and system monitoring
-- **Git & GitHub** — Commits, branches, pull requests, and collaboration
-- **Python** — Beginner‑level scripting and automation
-- **Markdown & Documentation** — Clean READMEs, notes, and cheat sheets
+- ⚙️ Linux, Bash, Git, GitHub, Markdown & Documentation
+- 🐳 Docker, Kubernetes  
+- 🔄 Jenkins, GitHub Actions, ArgoCD  
+- ☁️ AWS, Azure, Utho
+- 🏗️ Terraform, Ansible  
+- 📊 Prometheus, Grafana, SonarQube, Jira
+- 🛢️ MySQL, Nginx  
+- 🧠 Python, Node.js, Maven, Ansible
 
-### Infrastructure, CI/CD & Automation
-- **Docker** — Containerization and image management
-- **Kubernetes** — Learning pods, deployments, and services
-- **Terraform** — Infrastructure as Code basics
-- **ArgoCD** — GitOps‑based continuous delivery (learning)
-- **Jenkins** — CI/CD pipelines and automation
-- **GitHub Actions** — Workflow automation within GitHub
-
-### Cloud platforms
-- **AWS** — Core cloud services (EC2, S3, networking basics)
-- **Azure** — Learning core services (virtual machines, storage, networking)
-
-### Monitoring, security & observability
-- **Prometheus & Grafana** — Metrics collection and dashboards
-- **SonarQube** — Code quality and static analysis
-- **Jira** — Task and issue tracking
-
-### Databases & backend
-- **MySQL** — Relational database basics
-- **Nginx** — Web server and reverse proxy
-- **Node.js** — Learning JavaScript runtime for tools and scripts
-- **Maven** — Build and dependency management (Java projects)
-
-### Configuration & deployment
-- **Ansible** — Configuration management and automation (playbooks)
 ---
 
 ## 🔥 GitHub Streak
@@ -94,4 +72,18 @@ I'm **Akash Ahir**, a **DevOps Engineer**  Based in **Nagpur, India**, I'm build
 </div>
 
 ---
+
+<p align="center">
+  <strong>✨ Passionate about automation, scalability, and building reliable systems.</strong>
+</p>
+
+
+
+
+
+
+
+
+
+
 
