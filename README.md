@@ -1,12 +1,12 @@
 # 👋 I'm Akash Ahir
 
-A DevOps Engineer currently doing **90 Days of DevOps**. 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&width=435&lines=A++DevOps+and+Cloud+Engineer+)](https://git.io/typing-svg)
 ---
 
 ## 💡 About Me
 
-DevOps Engineer focused on automation, CI/CD, and cloud-native
+I'm **Akash Ahir**, a **DevOps Engineer**  Based in **Nagpur, India**, I'm building my skills in **Linux, Git, Shell scripting, Python, Docker, and AWS/Azure** to transition into a **DevOps Engineer** .
+
 
 - 🔧 Working with Linux, Git, automation tools, and many more
 - ⚙️ Building CI/CD pipelines and improving workflows  
