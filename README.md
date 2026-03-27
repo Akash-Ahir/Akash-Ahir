@@ -22,7 +22,7 @@ I'm **Akash Ahir**, a **DevOps Engineer** Based in **Nagpur, India**, I'm buildi
 - 90 Days of DevOps challenge (daily tasks, scripts, notes)
 - Shell scripts for automation and system tasks
 - Python scripts for utility and automation
-- Learning DevOps fundamentals.
+- Upskilling DevOps with **Agentic AI** .
 
 ---
 ## 🛠️ Tech Stack
